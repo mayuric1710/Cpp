@@ -6,8 +6,8 @@ int main()
 {
     int I,start=1,end,sum=0;
     
-    cout << "Janvi k.chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R.chavda"<<endl;
+    cout << "220130318091"<<endl;
     
     cout<<"enter till which no. you want sum::";
     cin >>end;

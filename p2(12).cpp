@@ -7,8 +7,8 @@ float cir(float,float PI=3.14);
 int main()
 {
 	float r;
-	cout<<"Janvi k. chavda"<<endl;
-	cout<<"220130318090"<<endl;
+	cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 	cout<<"enter the radus of circle::";
 	cin >>r;
 	

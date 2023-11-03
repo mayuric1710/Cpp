@@ -5,8 +5,8 @@ inline int cube(int );
 int main()
 {
 	int a,i;
-	cout<<"Janvi k. Chavda"<<endl;
-	cout<<"220130318090"<<endl;
+	cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 	for(i=0;i<3;i++){
 	
 	cout<<"enter the value ";

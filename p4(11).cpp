@@ -19,8 +19,8 @@ public:
 int main() {
     int value = 42;
 
-    cout << "Janvi k. Chavda" << endl;
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     
     MyClass myObj(value);
 

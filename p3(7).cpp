@@ -26,9 +26,9 @@ public:
 
 int main() {
 
-    Employee emp1("Janvi", 1807, 50000.0);
-    cout<<"Janvi K.Chavda"<<endl;
-    cout<<"220130318090"<<endl;
+    Employee emp1("Mayuri", 1807, 50000.0);
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     emp1.displayEmployee();
 
 

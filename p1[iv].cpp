@@ -6,8 +6,8 @@ int main()
 {
     float r,dia,cir,area;
     
-    cout<<"Janvi k. Chavda";
-    cout<<"220130318090";
+    cout<<"Mayuri R. Chavda";
+    cout<<"220130318091";
     
     cout << "enter the value of radius in c.m.";
     cin >> r;

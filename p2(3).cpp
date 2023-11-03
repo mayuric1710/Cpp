@@ -33,8 +33,8 @@ void contact_list :: getdata(){
 }
 int main(){
 	
-		cout<<"Janvi k. Chavda"<<endl;
-		cout<<"220130318090"<<endl;
+		cout << "Mayuri R. Chavda"<<endl;
+                cout << "220130318091"<<endl;
 		contact_list A;
 		A.putdata();
 		A.getdata();

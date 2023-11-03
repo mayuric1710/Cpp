@@ -29,8 +29,8 @@ int main() {
     
     Max numbers;
 
-    cout << "Janvi k. Chavda" << endl;
-    cout << "220130318090" << endl;
+        cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
     numbers.input();
     cout << "Entered Numbers:\n";
     numbers.display();

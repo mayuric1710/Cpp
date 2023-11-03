@@ -6,8 +6,8 @@ int main()
 {
     int no1,no2,no3;
     
-    cout << "Janvi K.chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R.chavda"<<endl;
+    cout << "220130318091"<<endl;
     
     cout<<"enter no1::";
     cin >>no1;

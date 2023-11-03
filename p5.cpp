@@ -8,8 +8,8 @@ int main()
     
     int no1,no2,temp=0;
     
-    cout << "Janvi K. Chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R.Chavda"<<endl;
+    cout << "220130318091"<<endl;
     cout << "Enter the value of no 1::";
     cin  >> no1;
     cout << "Enter the value of no 2::";

@@ -7,8 +7,8 @@ int a=11;
 
 int main()
 {
-        cout << "Janvi k. chavda"<<endl;
-        cout << "220130318090"<<endl;
+        cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 	cout<<a<<endl;
 	instance()=5;
 	cout<<a;

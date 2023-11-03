@@ -25,8 +25,8 @@ public:
 
 int main() {
     Derived derivedObj;
-    cout<< "Janvi K.Chavda" << endl; 
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
     derivedObj.displayBase1();
     derivedObj.displayBase2();
     derivedObj.displayDerived();

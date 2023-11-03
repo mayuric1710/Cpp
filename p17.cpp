@@ -6,8 +6,8 @@ int fibo(int no);
 
 int main() {
     int num;
-    cout<<"Janvi k.chavda";
-    cout<<"220130318090";
+    cout<<"Mayuri R.chavda";
+    cout<<"220130318091";
     
     cout << "Enter the value till which you want Fibonacci series ";
     cin >> num;

@@ -6,8 +6,8 @@ void palindrome(int no);
 int main() 
 { 
     int num, no;
-    cout << "Janvi k.chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R. chavda"<<endl;
+    cout << "220130318091"<<endl;
     cout << "Enter the number to check if it's palindrome or not!!";
     cin >> num;
     no = num;

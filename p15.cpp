@@ -18,8 +18,8 @@ int main() {
  
     int number;
         
-    cout<<"Janvi k.chavda";
-    cout<<"220130318090";
+    cout<<"Mayuri R.chavda";
+    cout<<"220130318091";
 
     std::cout << "Enter a number: ";
     std::cin >> number;

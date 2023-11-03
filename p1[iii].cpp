@@ -5,8 +5,8 @@ int main()
 {
     float length,breadth,area,peri;
 
-    cout <<"Janvji K. Chavda";
-    cout <<"220130318090";
+    cout <<"Mayuri R.Chavda";
+    cout <<"220130318091";
     cout << "enter the value of length in c.m.::";
     cin >> length;
     cout << "enter the value of breadth in c.m.::";

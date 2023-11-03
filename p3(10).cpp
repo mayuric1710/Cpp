@@ -19,8 +19,8 @@ public:
 int main() {
     MaxFinder finder;
     int num1, num2, num3;
-    cout << "Janvi k. Chavda" << endl;
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     cout << "Enter three numbers: ";
     cin >> num1 >> num2 >> num3;
     int maximum = finder.findMax(num1, num2, num3);

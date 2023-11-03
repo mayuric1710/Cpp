@@ -27,8 +27,8 @@ void Shape::display_shape() {
     std::cout << "Base: " << base << " units" << std::endl;
 }
 int main() {
-cout << "Janvi k. Chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     Shape myShape(5.0, 7.0);
     myShape.display_shape();
 

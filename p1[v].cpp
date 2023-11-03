@@ -8,8 +8,8 @@ int main()
 {
     int arr[5],I;
     
-    cout<<"Janvi K.chavda";
-    cout<<"220130318090";
+    cout<<"Mayuri R.chavda";
+    cout<<"220130318091";
     
     cout << "enter the value of array::";
     for(I=0;I<5;I++)

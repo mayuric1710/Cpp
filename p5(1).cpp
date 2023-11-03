@@ -19,8 +19,8 @@ public:
 int main() {
     Child childObj;
         
-    cout<< "Janvi K.Chavda" << endl; 
-    cout << "220130318090" << endl;  
+   cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;   
     childObj.display();
     childObj.show();
 

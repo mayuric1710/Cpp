@@ -6,8 +6,8 @@ int main()
 {
     int num;
     
-    cout << "Janvi K chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R chavda"<<endl;
+    cout << "220130318091"<<endl;
     
     cout << "enter the number to find if it's even or odd::";
     cin  >> num;

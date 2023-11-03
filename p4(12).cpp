@@ -32,8 +32,8 @@ int main() {
         MyString s1(str);
 
         MyString s2(str);
-    cout << "Janvi K.Chavda" << endl; 
-    cout << "220130318090" << endl;   
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;   
     s1.displayString();
     s2.displayString();
 

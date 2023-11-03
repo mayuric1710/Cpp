@@ -6,8 +6,8 @@ int main()
 {
     int I,table;
     
-    cout << "Janvi k chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R chavda"<<endl;
+    cout << "220130318091"<<endl;
     
     cout<<"enter which table you want::";
     cin >>table;

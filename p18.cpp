@@ -17,8 +17,8 @@ int main()
     int base;
     int exp;
     
-    cout << "Janvi k.chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R.chavda"<<endl;
+    cout << "220130318091"<<endl;
     
     cout << "Enter the base: ";
     cin >> base;

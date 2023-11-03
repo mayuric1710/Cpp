@@ -4,8 +4,8 @@ using namespace std;
 
 int main ()
 {
-    cout << "Janvi K. Chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     cout<<"size of int    ::"<<sizeof(int)<<endl;
     cout<<"size of char   ::"<<sizeof(char)<<endl;
     cout<<"size of float  ::"<<sizeof(float)<<endl;

@@ -12,8 +12,8 @@ struct employee{
 
 int main()
 {
-  cout<<"Janvi k. Chavda"<<endl;
-	cout<<"220130318090"<<endl;
+        cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 	cout<<"enter employee name:";
 	cin>>E1.name;
 	cout<<"enter employee code:";

@@ -6,8 +6,8 @@ int multi(int &,int &);
 int main()
 {
 	int no1,no2;
-cout << "Janvi k. Chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
 	cout<<"enter the value of no1::";
 	cin>>no1;
 	cout<<"enter the value of no2::";

@@ -14,8 +14,8 @@ int temp ::a=10;
 
 int main()
 {
-    cout<<"Janvi k. chavda"<<endl;
-    cout<<"220130318090"<<endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     temp t1;
     t1.display();
     return 0; 

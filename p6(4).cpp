@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    cout<< "Janvi K.Chavda" << endl; 
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     ifstream inputFile("input.txt");
     ofstream outputFile("output.txt");
 

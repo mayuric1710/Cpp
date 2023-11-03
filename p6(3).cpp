@@ -4,8 +4,8 @@ using namespace std;
 
 int main() {
 
-    cout<< "Janvi K.Chavda" << endl; 
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+     cout << "220130318091"<<endl;
     ifstream inputFile("textfile.txt");
     if (inputFile.is_open()) {
         inputFile.seekg(0, ios::end);

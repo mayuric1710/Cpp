@@ -5,8 +5,8 @@
 using namespace std;
 
 int main() {
-    cout<< "Janvi K.Chavda" << endl; 
-    cout << "220130318090" << endl; 
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     ifstream infile("test.txt");
     if (infile.is_open()) {
         string line;

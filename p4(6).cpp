@@ -12,8 +12,8 @@ int calculateYearDifference(const Product &product) {
 
 int main() {
     Product product;
-    cout << "Janvi k. Chavda" << endl;
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     cout << "Enter the manufacture year: ";
     cin >> product.manufactureYear;
     

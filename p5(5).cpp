@@ -19,8 +19,8 @@ int main() {
     MyClass obj1(42);
     MyClass obj2(77);
     
-    cout<< "Janvi K.Chavda" << endl; 
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 
     obj1.display();
     obj2.display();

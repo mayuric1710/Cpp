@@ -23,8 +23,8 @@ public:
 int main() {
     
     Account myAccount;
-    cout << "Janvi k. Chavda" << endl;
-    cout << "220130318090" << endl;
+        cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
      myAccount.setdata(1001, 5000.0, 1234);
     cout << "Account Information:\n";
     myAccount.displayAccount();

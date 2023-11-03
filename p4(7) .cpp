@@ -15,8 +15,8 @@ void friendFunction(MyClass obj) {
 
 int main() {
     MyClass myObj(42);
-    cout << "Janvi k. Chavda" << endl;
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
     friendFunction(myObj);
 
     return 0;

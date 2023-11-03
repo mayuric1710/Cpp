@@ -21,9 +21,9 @@ int main() {
     Number number2(7);
 
     int sum = addNumbers(number1, number2);
-    cout << "Janvi k. Chavda" << endl;
-    cout << "220130318090" << endl;
     
+        cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
     cout << "The sum of :: " << sum << endl;
 
     return 0;

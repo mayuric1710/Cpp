@@ -27,8 +27,8 @@ public:
 
 int main() {
     Product product1;
-    cout << "Janvi K.Chavda" << endl;
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+    cout << "220130318091"<<endl;
     cout << "Enter data for the first product:" << endl;
     product1.getData();
 

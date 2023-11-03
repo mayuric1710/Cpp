@@ -8,8 +8,8 @@ int main()
 {
 	float r,l,ans;
 	
-	cout<<"Janvi k. Chavda"<<endl;
-	cout<<"220130318090"<<endl;
+	cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 	cout<<"enter the radius of cone";
 	cin >> r;
 	cout<<"enter the length of cone";

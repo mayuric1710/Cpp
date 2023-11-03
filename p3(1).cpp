@@ -12,9 +12,9 @@ struct student{
 int main()
 {
 	int i;
-	cout<<"Janvi k.Chavda"<<endl;
-	cout<<"220130318090"<<endl;
 	
+	cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 	cout<<"\nenter your name:";
 	cin>>s1.name;
 	cout<<"which std are you studing:";

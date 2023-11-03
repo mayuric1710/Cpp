@@ -26,8 +26,8 @@ int main()
 {
     char ch;
     
-    cout << "Janvi K.chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R. chavda"<<endl;
+    cout << "220130318091"<<endl;
     
     cout<<"enter a character::";
     cin >>ch;

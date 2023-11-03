@@ -10,8 +10,8 @@ struct student
 
 int main()
 {
-	cout<<"Janvi k. Chavda"<<endl;
-	cout<<"220130318090"<<endl;
+	cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 	cout<<sizeof(student);
 	return 0;
 }

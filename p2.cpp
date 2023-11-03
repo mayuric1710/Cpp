@@ -27,8 +27,8 @@ class temp{
 
 int main()
 {
-    cout << "Janvi K chavda";
-    cout << "220130318090";
+    cout << "Mayuri R. chavda";
+    cout << "220130318091";
     temp c;
     c.getdata();
     c.putdata();

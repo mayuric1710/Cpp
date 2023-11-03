@@ -24,8 +24,8 @@ class Employee{
 };
 int main()
 {
-    cout<<"Janvi k. Chavda";
-    cout<<"220130318090";
+        cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 	Employee arr[10];
 	for(int i=0;i<10;i++)
 	{

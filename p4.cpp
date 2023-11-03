@@ -7,8 +7,8 @@ using namespace std;
 int main()
 {
     string name;
-    cout << "Janvi K. Chavda"<<endl;
-    cout << "220130318090"<<endl;
+    cout << "Mayuri R Chavda"<<endl;
+    cout << "220130318091"<<endl;
     
     cout<<"enter your name::";
     cin >>name;

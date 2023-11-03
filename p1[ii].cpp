@@ -6,8 +6,8 @@ int main()
    
     int a,b;
 
-    cout <<"Janvi k. chavda";
-    cout <<"220130318090";
+    cout <<"Mayuri R. chavda";
+    cout <<"220130318091";
     cout << "enter the value of a::";
     cin >> a;
     cout << "enter value of b::";

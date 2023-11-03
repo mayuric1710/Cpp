@@ -19,8 +19,8 @@ public:
 int main() {
     Base baseObj;
     Derived derivedObj;
-    cout<< "Janvi K.Chavda" << endl; 
-    cout << "220130318090" << endl;
+    cout << "Mayuri R. Chavda"<<endl;
+        cout << "220130318091"<<endl;
 
     Base* ptr = &baseObj;
     ptr->display();
